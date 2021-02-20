@@ -1,0 +1,8 @@
+{
+	"transactions": [
+	{
+		"transType": "PURCHASE",
+		"amount": 5.9
+	}
+	]
+}
